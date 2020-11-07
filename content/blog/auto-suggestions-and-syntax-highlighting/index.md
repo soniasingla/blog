@@ -2,7 +2,7 @@
 title: How to customize Oh My Zsh with Auto-Suggestions and Syntax Highlighting?
 date: "2020-10-06"
 description: "As a developer, we spend a lot of time working on the terminal and having personalized shell makes the working environment perfect, decreases frustration and also, increases productivity."
-tags: ["ohmyzsh", "2020", "developer"]
+tags: ["ohmyzsh", "git", "plugin", "themes"]
 disqus: true
 ---
 
