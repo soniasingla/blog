@@ -2,6 +2,7 @@
 title: Mercurial Guide for Firefox Workflow
 date: "2020-09-08"
 description: "Figuring out how to fix the problems in Mercurial is near to impossible. Yes, you heard me right, and it's very easy to screw up. Mercurial documentation has this chicken and egg problem where you can't search for how to get yourself out of a mess unless you already know the name of the thing you need to know about to fix your problem."
+tags: ["open-source", "mercurial", "firefox", "mozilla"]
 disqus: true
 ---
 

@@ -2,6 +2,7 @@
 title: LOCALIZATION WITH PONTOON - DIVE INTO OPEN-SOURCE
 date: "2019-03-30"
 description: "Localization is top-priority contribution and an essential component in ensuring that our translation has the maximum effect on million of users."
+tags: ["open-source", "localization", "pontoon", "mozilla"]
 disqus: true
 ---
 

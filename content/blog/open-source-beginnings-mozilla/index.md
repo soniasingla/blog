@@ -2,6 +2,7 @@
 title: My Open-Source Beginnings with Mozilla
 date: "2019-01-07"
 description: "There are years that ask questions and years that answer."
+tags: ["open-source", "developer", "mozilla"]
 disqus: true
 ---
 

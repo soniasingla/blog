@@ -2,6 +2,7 @@
 title: My Experience as a Mozilla Rep
 date: "2020-02-16"
 description: "The Mozilla Reps program is open to anyone who is passionate, knowledgeable and willing to help."
+tags: ["open-source", "mozreps", "developer", "mozilla"]
 disqus: true
 ---
 

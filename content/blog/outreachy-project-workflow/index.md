@@ -2,6 +2,7 @@
 title: Project workflow with Web Compatibility team of Mozilla
 date: "2020-01-15"
 description: "The reporter is implemented as a standalone Web-extension, that leverages both standard Web-extension APIs as well as some Firefox-specific APIs that allows gathering more information, like taking a screenshot and collecting error messages from the JavaScript error console."
+tags: ["open-source", "internships", "outreachy", "mozilla"]
 disqus: true
 ---
 

@@ -2,6 +2,7 @@
 title: Outreachy Internship with Mozilla 🦊
 date: "2019-12-07"
 description: "I am working on the project Prototype an in-browser mechanism to report Web Compatibility issues under the mentorship of Dennis Schubert and Mike Taylor and Thomas Wisniewski."
+tags: ["open-source", "internships", "outreachy", "mozilla"]
 disqus: true
 ---
 

@@ -2,6 +2,7 @@
 title: Outreachy Internship with Mozilla - Final Report
 date: "2020-03-17"
 description: "I did my internship with WebCompat team and I am missing working with Dennis terribly. Since, Mozilla is a global non-profit with a strong community that works openly, I’ll be working as Volunteer Contributor 👩‍💻"
+tags: ["open-source", "internships", "outreachy", "mozilla"]
 disqus: true
 ---
 

@@ -2,6 +2,7 @@
 title: How to access GitHub using two-factor authentication?
 date: "2019-07-30"
 description: "Two-factor authentication, or 2FA is the most significant solution used to protect users data and adds security while logging into browser, app or any website."
+tags: ["open-source", "github", "authentication", "tools"]
 disqus: true
 ---
 

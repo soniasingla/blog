@@ -2,6 +2,7 @@
 title: Everybody Struggles
 date: "2019-12-27"
 description: "Always remember, there is nothing annoying about asking questions and the earliest, we share our problems with mentor and the community, the quickest we will have an idea about what we were doing wrong, or we will have another approach to try."
+tags: ["open-source", "internships", "outreachy", "mozilla"]
 disqus: true
 ---
 

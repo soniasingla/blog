@@ -2,6 +2,7 @@
 title: My 2019 in review and Goals for 2020
 date: "2020-02-02"
 description: "Finally, 13 months of 2019 are over, so excited for 2020, new year xDDDDD."
+tags: ["developer", "personal", "experiences", "open-source"]
 disqus: true
 ---
 

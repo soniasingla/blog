@@ -2,6 +2,7 @@
 title: Get the most out of Community Bridge Program
 date: "2020-08-25"
 description: "I am fortunate enough to have them as mentors as they not only guided me technically but also showed how to become a good software engineer and human being."
+tags: ["open-source", "internships", "cncf", "linux-foundation"]
 disqus: true
 ---
 

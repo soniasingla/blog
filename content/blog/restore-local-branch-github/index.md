@@ -2,6 +2,7 @@
 title: How to restore local  branch in GitHub?
 date: "2020-05-12"
 description: "you ended fucking up the re-base so badly that you deleted the repository and cloned a new one 😂"
+tags: ["github", "git branch", "open-source"]
 disqus: true
 ---
 

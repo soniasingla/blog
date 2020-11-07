@@ -2,6 +2,7 @@
 title: Progress Report - First half of Outreachy Internship
 date: "2020-02-03"
 description: "Currently, I am working on refactoring of code/writing more clean code : restructuring existing code, changing the factoring without changing it’s external behavior."
+tags: ["open-source", "internships", "outreachy", "mozilla"]
 disqus: true
 ---
 

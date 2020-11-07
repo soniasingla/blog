@@ -2,6 +2,7 @@
 title: Week 03 & 04 - Progress Report with Community Bridge
 date: "2020-06-24"
 description: "The past two weeks were most exciting and challenging at the same time. We are half way done !"
+tags: ["open-source", "internships", "cncf", "thanos"]
 disqus: true
 ---
 

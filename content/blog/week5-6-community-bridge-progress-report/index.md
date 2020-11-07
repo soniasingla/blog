@@ -2,6 +2,7 @@
 title: Week 05 & 06 - Progress Report with Community Bridge
 date: "2020-07-09"
 description: "Unorganized stuff is the best 😂, always make a mess and then try to make it look good"
+tags: ["open-source", "internships", "cncf", "thanos"]
 disqus: true
 ---
 

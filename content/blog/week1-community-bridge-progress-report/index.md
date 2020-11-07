@@ -2,6 +2,7 @@
 title: Week 01 - Progress Report with Community Bridge
 date: "2020-06-03"
 description: "After 30 years and 1 week of lock down, I am feeling productive (Just kidding, i am just 20 😂). Ready to roll with me again? 😉"
+tags: ["open-source", "internships", "cncf", "thanos"]
 disqus: true
 ---
 

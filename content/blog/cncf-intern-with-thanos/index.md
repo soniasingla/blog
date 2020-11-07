@@ -2,6 +2,7 @@
 title: Week 00 - CNCF Internship with Thanos
 date: "2020-05-27"
 description: "I have been selected as an intern at Cloud Native Computing Foundation with Thanos where I will be working with the Project Complete Katacoda tutorials under the guidance of Bartek Plotka and Povilas Versockas."
+tags: ["open-source", "internships", "cncf", "thanos"]
 disqus: true
 ---
 

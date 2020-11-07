@@ -2,6 +2,7 @@
 title: Week 02 - Progress Report with Community Bridge
 date: "2020-06-10"
 description: "Get to know more about Thanos, a set of components to make our Prometheus deployments a long-term TSDB solution with Highly Available setup."
+tags: ["open-source", "internships", "cncf", "thanos"]
 disqus: true
 ---
 
