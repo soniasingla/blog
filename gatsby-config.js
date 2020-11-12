@@ -31,6 +31,12 @@ module.exports = {
     langsEntries: toPairs(supportedLanguages),
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-monetization`,
+      options: {
+        paymentPointer: `$ilp.uphold.com/i3rLUpU3gRp8`,
+      },
+    },
     'gatsby-plugin-eslint',
     {
       resolve: `gatsby-source-filesystem`,
