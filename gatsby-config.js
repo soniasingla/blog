@@ -32,6 +32,12 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: ["@weknow/gatsby-remark-twitter"]
+      }
+    },
+    {
       resolve: `gatsby-plugin-monetization`,
       options: {
         paymentPointer: `$ilp.uphold.com/i3rLUpU3gRp8`,
