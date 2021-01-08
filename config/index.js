@@ -5,7 +5,6 @@ const site = {
   siteUrl: 'https://soniasingla.com',
   twitter: 'soniasinglas',
   github: 'soniasingla',
-  facebook: 'soniasinglas',
   disqusShortName: 'gatsby-simple-blog',
   googleTrackingId: 'UA - 167005401 - 1',
   lang: 'en',

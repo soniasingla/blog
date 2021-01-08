@@ -7,7 +7,6 @@ const {
   siteUrl,
   twitter = '',
   github = '',
-  facebook = '',
   disqusShortName = '',
   lang = 'en',
   googleTrackingId: trackingId,
@@ -24,7 +23,6 @@ module.exports = {
     social: {
       twitter,
       github,
-      facebook,
     },
     disqusShortName,
     lang,
