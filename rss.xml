@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sonia Singla]]></title><description><![CDATA[Hi 👋🏻, My name is Sonia, 20 yo, studying Information Technology from Panjab University, India. I am passionate about developer tooling and developer communities. Currently, working with Embark Studios on a new platform for gamemaking. I was the CNCF 2020 Intern at Thanos, and spent the winter of 2019 working with web-compatibility team of Mozilla as an Outreachy Intern. I also love to travel, teach, and speak about open source 👩🏻‍💻]]></description><link>https://soniasingla.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Jan 2021 11:58:04 GMT</lastBuildDate><item><title><![CDATA[🎨 Bracket Pair Colorizer]]></title><description><![CDATA[I have been coding for a while now, and identifying blocks, notations, opening and closing tags within heavily nested loops and functions is…]]></description><link>https://soniasingla.com/bracket-pair-colorizer/</link><guid isPermaLink="false">https://soniasingla.com/bracket-pair-colorizer/</guid><pubDate>Sat, 12 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sonia Singla]]></title><description><![CDATA[Hi 👋🏻, My name is Sonia, 20 yo, studying Information Technology from Panjab University, India. I am passionate about developer tooling and developer communities. Currently, working with Embark Studios on a new platform for gamemaking. I was the CNCF 2020 Intern at Thanos, and spent the winter of 2019 working with web-compatibility team of Mozilla as an Outreachy Intern. I also love to travel, teach, and speak about open source 👩🏻‍💻]]></description><link>https://soniasingla.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 08 Jan 2021 12:51:52 GMT</lastBuildDate><item><title><![CDATA[Git - Tracking method/function history]]></title><description><![CDATA[The  command helps us to view the information about previous commits occurred in the project. But do you know, you can see the history of…]]></description><link>https://soniasingla.com/tracking-function-history-in-git/</link><guid isPermaLink="false">https://soniasingla.com/tracking-function-history-in-git/</guid><pubDate>Fri, 08 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;The &lt;code class=&quot;language-text&quot;&gt;git log&lt;/code&gt; command helps us to view the information about previous commits occurred in the project. But do you know, you can see the history of any method/function in your codebase easily with:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; log -L :function:path/to/file&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;A quick example on this command:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7d8985949018ae5f9e2227a1a77785fe/26162/carbon.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 114.1891891891892%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAYAAAALHW+jAAAACXBIWXMAAAsTAAALEwEAmpwYAAADSklEQVQ4y41U2WoUQRTtmd63md5mpqdn6VkyWfAjfPHBjzBi1CwkIokvAQUJJEIMRGFEgxsKoi8KPunvHe+t6k5Gk6gPh1tdXXXq3FO3rjJ98wmPHu9j/f4OVrceEHYE1oq4uinHl+Ier9vG1s4uPnz9AWX34R6uX7uKyUKOYX+A8WCIESNnDMR4bjjEZDTCZDyScWY8T3E8GGBpYR7T91+g3FrdwMJCF0mkoJPo6DUt5KmNbsPCMHPRb5mIfR01S0fgmKjbBkUDNVODq1XgGVWYigKzouDJ8xMoK2tbuLI4jzT0kGcx8naMQSfBqNvEXJ6iFTpoBh6Smou4QFLz4Js6XF0lVOEQceBYODh+CeXGyhp6WZsWaIg8F42gJhDTptj35FzdJ3hCJSsUILWR7yBwLYSEhP7vl4T9TibSaRIRK+HNzZCJfZrz0U5CIndmUjYFIY9tVYFBKXuGhoNnr6AsF4Q1S5NKiIBPE6SBVJYRIc8zAauscSzA6bJ/bMHB8Qxh3dYFQUnSCutCJauJPLtQZp2mW+IvhIYgaIUybXEJviv8iTznLNVZQvsCQuFhJj1MozracSD88uiSPEMVl8X/5IWY/065vGWhMJAeskom5u9uMxYHCcJZhfYlCpdvryPvdoQSUWPkXxnZy5SI00I128AWsOIS5whv3tkQTyhvNTDJexj3OhjTAd1GjJi8a0eBUFxeGBNyMbMdLsFW/yS8u47xpI9m5qMzitBoU9ppHUFkw7ToSZlUZ1VZa7yRYVXPwHV4jrDfy6AaCpwuFWpQFUQWLbT1CkFusovNF+F3D+8wYQc6bXBDHU6owdaKxRz1IhZzVvV/CWnScVQ4ASGmTtIk8hp55FZhWxWJ/ybsd6CRRw6n6FD3iDQ4XlX6VPndrxKz3xcS6kyoVc5S/WPzKSpnZJdcygZyIjSIxGubcEmdS41WxJjSdlUJi5SzehqLyyoOYxFM7FPhi25z4/YaulkKlU6xI1rcUGEllG5QESUjSodv3SO4NNZkCZXgbl1mJ/rh3c1tLC0u0rs0ZVON/VNE9H0K6toRvZyImy41jdl/IT2ANIlxOH0L5fXn7zg++Yi9o6nE0xkcTc/PH12Mwxfv8OHbT/wCSPN414AGHKwAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;carbon&quot;
+        title=&quot;carbon&quot;
+        src=&quot;/static/7d8985949018ae5f9e2227a1a77785fe/fcda8/carbon.png&quot;
+        srcset=&quot;/static/7d8985949018ae5f9e2227a1a77785fe/12f09/carbon.png 148w,
+/static/7d8985949018ae5f9e2227a1a77785fe/e4a3f/carbon.png 295w,
+/static/7d8985949018ae5f9e2227a1a77785fe/fcda8/carbon.png 590w,
+/static/7d8985949018ae5f9e2227a1a77785fe/efc66/carbon.png 885w,
+/static/7d8985949018ae5f9e2227a1a77785fe/c83ae/carbon.png 1180w,
+/static/7d8985949018ae5f9e2227a1a77785fe/26162/carbon.png 2020w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;It cannot necessarily handle all the languages, for that, you need to configure the git config correctly in order for git to recognize method/function declarations in that specific language.
+I checked for &lt;code class=&quot;language-text&quot;&gt;Golang&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;JavaScript&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;Python&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;C&lt;/code&gt;, it’s working without adding any particular language-specific configuration.&lt;/p&gt;
+&lt;p&gt;Interestingly, if you wish to check the history for some specific number of lines within the file, you can check with:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;$ &lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; log -L :&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;start&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;,&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;end&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;:&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;file&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;You can also pass regex to find anything in your codebase files using:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; log -L :&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;regex&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;:&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;file&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This was originally posted &lt;a href=&quot;https://stackoverflow.com/questions/4781405/git-how-do-i-view-the-change-history-of-a-method-function&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;here&lt;/a&gt;! 💜&lt;/p&gt;</content:encoded></item><item><title><![CDATA[🎨 Bracket Pair Colorizer]]></title><description><![CDATA[I have been coding for a while now, and identifying blocks, notations, opening and closing tags within heavily nested loops and functions is…]]></description><link>https://soniasingla.com/bracket-pair-colorizer/</link><guid isPermaLink="false">https://soniasingla.com/bracket-pair-colorizer/</guid><pubDate>Sat, 12 Dec 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
     &gt;
