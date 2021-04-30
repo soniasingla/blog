@@ -20,7 +20,6 @@ function HTML({
         {headComponents}
       </head>
       <body {...bodyAttributes} className="light">
-        <script async defer data-domain="soniasingla.com" src="https://plausible.io/js/plausible.js"></script>
         <script
           dangerouslySetInnerHTML={{
             __html: `
